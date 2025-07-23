@@ -1,1 +1,1 @@
-# workshop
+# AI working group
